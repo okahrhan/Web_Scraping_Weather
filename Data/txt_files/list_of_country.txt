@@ -1,0 +1,141 @@
+id: 1, Country: Ghana, City: Accra, Temp: 28°C, Date: Sun 10:51
+id: 2, Country: Ireland, City: Dublin, Temp: 14°C, Date: Sun 11:51
+id: 3, Country: Kenya, City: Nairobi, Temp: 24°C, Date: Sun 13:51
+id: 4, Country: Ethiopia, City: Addis Ababa, Temp: 22°C, Date: Sun 13:51
+id: 5, Country: Canada, City: Edmonton, Temp: 5°C, Date: Sun 04:51
+id: 6, Country: Bahamas, City: Nassau, Temp: 24°C, Date: Sun 06:51
+id: 7, Country: Australia, City: Adelaide, Temp: 15°C, Date: Sun 20:21
+id: 8, Country: Germany, City: Frankfurt, Temp: 22°C, Date: Sun 12:51
+id: 9, Country: India, City: New Delhi, Temp: 35°C, Date: Sun 16:21
+id: 10, Country: Algeria, City: Algiers, Temp: 24°C, Date: Sun 11:51
+id: 11, Country: Guatemala, City: Guatemala, Temp: 17°C, Date: Sun 04:51
+id: 12, Country: Usa, City: New Orleans, Temp: 28°C, Date: Sun 05:51
+id: 13, Country: Kazakstan, City: Almaty, Temp: 27°C, Date: Sun 15:51
+id: 14, Country: Canada, City: Halifax, Temp: 7°C, Date: Sun 07:51
+id: 15, Country: Usa, City: New York, Temp: 17°C, Date: Sun 06:51
+id: 16, Country: Jordan, City: Amman, Temp: 26°C, Date: Sun 13:51
+id: 17, Country: Vietnam, City: Hanoi, Temp: 27°C, Date: Sun 17:51
+id: 18, Country: Norway, City: Oslo, Temp: 12°C, Date: Sun 12:51
+id: 19, Country: Netherlands, City: Amsterdam, Temp: 21°C, Date: Sun 12:51
+id: 20, Country: Zimbabwe, City: Harare, Temp: 21°C, Date: Sun 12:51
+id: 21, Country: Canada, City: Ottawa, Temp: 12°C, Date: Sun 06:51
+id: 22, Country: Russia, City: Anadyr, Temp: 5°C, Date: Sun 22:51
+id: 23, Country: Cuba, City: Havana, Temp: 23°C, Date: Sun 06:51
+id: 24, Country: France, City: Paris, Temp: 18°C, Date: Sun 12:51
+id: 25, Country: Usa, City: Anchorage, Temp: 4°C, Date: Sun 02:51
+id: 26, Country: Finland, City: Helsinki, Temp: 11°C, Date: Sun 13:51
+id: 27, Country: Australia, City: Perth, Temp: 20°C, Date: Sun 18:51
+id: 28, Country: Turkey, City: Ankara, Temp: 19°C, Date: Sun 13:51
+id: 29, Country: Hong-Kong, City: Hong Kong, Temp: 26°C, Date: Sun 18:51
+id: 30, Country: Usa, City: Philadelphia, Temp: 18°C, Date: Sun 06:51
+id: 31, Country: Madagascar, City: Antananarivo, Temp: 28°C, Date: Sun 13:51
+id: 32, Country: Usa, City: Honolulu, Temp: 26°C, Date: Sun 00:51
+id: 33, Country: Usa, City: Phoenix, Temp: 25°C, Date: Sun 03:51
+id: 34, Country: Paraguay, City: Asuncion, Temp: 26°C, Date: Sun 06:51
+id: 35, Country: Usa, City: Houston, Temp: 26°C, Date: Sun 05:51
+id: 36, Country: Czech-Republic, City: Prague, Temp: 17°C, Date: Sun 12:51
+id: 37, Country: Greece, City: Athens, Temp: 26°C, Date: Sun 13:51
+id: 38, Country: Usa, City: Indianapolis, Temp: 19°C, Date: Sun 06:51
+id: 39, Country: Iceland, City: Reykjavik, Temp: 9°C, Date: Sun 10:51
+id: 40, Country: Usa, City: Atlanta, Temp: 21°C, Date: Sun 06:51
+id: 41, Country: Pakistan, City: Islamabad, Temp: 32°C, Date: Sun 15:51
+id: 42, Country: Brazil, City: Rio De Janeiro, Temp: 23°C, Date: Sun 07:51
+id: 43, Country: New-Zealand, City: Auckland, Temp: 15°C, Date: Sun 22:51
+id: 44, Country: Turkey, City: Istanbul, Temp: 21°C, Date: Sun 13:51
+id: 45, Country: Saudi-Arabia, City: Riyadh, Temp: 39°C, Date: Sun 13:51
+id: 46, Country: Iraq, City: Baghdad, Temp: 40°C, Date: Sun 13:51
+id: 47, Country: Indonesia, City: Jakarta, Temp: 33°C, Date: Sun 17:51
+id: 48, Country: Italy, City: Rome, Temp: 22°C, Date: Sun 12:51
+id: 49, Country: Thailand, City: Bangkok, Temp: 30°C, Date: Sun 17:51
+id: 50, Country: Israel, City: Jerusalem, Temp: 22°C, Date: Sun 13:51
+id: 51, Country: Usa, City: Salt Lake City, Temp: 16°C, Date: Sun 04:51
+id: 52, Country: Spain, City: Barcelona, Temp: 20°C, Date: Sun 12:51
+id: 53, Country: South-Africa, City: Johannesburg, Temp: 6°C, Date: Sun 12:51
+id: 54, Country: Usa, City: San Francisco, Temp: 13°C, Date: Sun 03:51
+id: 55, Country: China, City: Beijing, Temp: 22°C, Date: Sun 18:51
+id: 56, Country: Pakistan, City: Karachi, Temp: 34°C, Date: Sun 15:51
+id: 57, Country: Puerto-Rico, City: San Juan, Temp: 27°C, Date: Sun 06:51
+id: 58, Country: Lebanon, City: Beirut, Temp: 29°C, Date: Sun 13:51
+id: 59, Country: Nepal, City: Kathmandu, Temp: 31°C, Date: Sun 16:36
+id: 60, Country: El-Salvador, City: San Salvador, Temp: 23°C, Date: Sun 04:51
+id: 61, Country: Serbia, City: Belgrade, Temp: 21°C, Date: Sun 12:51
+id: 62, Country: Jamaica, City: Kingston, Temp: 28°C, Date: Sun 05:51
+id: 63, Country: Chile, City: Santiago, Temp: 8°C, Date: Sun 07:51
+id: 64, Country: India, City: Bengaluru, Temp: 29°C, Date: Sun 16:21
+id: 65, Country: Congo-Demrep, City: Kinshasa, Temp: 27°C, Date: Sun 11:51
+id: 66, Country: Dominican-Republic, City: Santo Domingo, Temp: 27°C, Date: Sun 06:51
+id: 67, Country: Germany, City: Berlin, Temp: 22°C, Date: Sun 12:51
+id: 68, Country: Kiribati, City: Kiritimati, Temp: 26°C, Date: Mon 00:51
+id: 69, Country: Brazil, City: Sao Paulo, Temp: 19°C, Date: Sun 07:51
+id: 70, Country: Colombia, City: Bogota, Temp: 11°C, Date: Sun 05:51
+id: 71, Country: India, City: Kolkata, Temp: 35°C, Date: Sun 16:21
+id: 72, Country: Usa, City: Seattle, Temp: 14°C, Date: Sun 03:51
+id: 73, Country: Usa, City: Boston, Temp: 14°C, Date: Sun 06:51
+id: 74, Country: Malaysia, City: Kuala Lumpur, Temp: 33°C, Date: Sun 18:51
+id: 75, Country: South-Korea, City: Seoul, Temp: 21°C, Date: Sun 19:51
+id: 76, Country: Brazil, City: Brasilia, Temp: 18°C, Date: Sun 07:51
+id: 77, Country: Kuwait, City: Kuwait City, Temp: 42°C, Date: Sun 13:51
+id: 78, Country: China, City: Shanghai, Temp: 23°C, Date: Sun 18:51
+id: 79, Country: Australia, City: Brisbane, Temp: 20°C, Date: Sun 20:51
+id: 80, Country: Ukraine, City: Kyiv, Temp: 23°C, Date: Sun 13:51
+id: 81, Country: Singapore, City: Singapore, Temp: 31°C, Date: Sun 18:51
+id: 82, Country: Belgium, City: Brussels, Temp: 20°C, Date: Sun 12:51
+id: 83, Country: Bolivia, City: La Paz, Temp: 2°C, Date: Sun 06:51
+id: 84, Country: Bulgaria, City: Sofia, Temp: 16°C, Date: Sun 13:51
+id: 85, Country: Romania, City: Bucharest, Temp: 24°C, Date: Sun 13:51
+id: 86, Country: Nigeria, City: Lagos, Temp: 29°C, Date: Sun 11:51
+id: 87, Country: Canada, City: St Johns, Temp: 9°C, Date: Sun 08:21
+id: 88, Country: Hungary, City: Budapest, Temp: 22°C, Date: Sun 12:51
+id: 89, Country: Pakistan, City: Lahore, Temp: 37°C, Date: Sun 15:51
+id: 90, Country: Sweden, City: Stockholm, Temp: 14°C, Date: Sun 12:51
+id: 91, Country: Argentina, City: Buenos Aires, Temp: 18°C, Date: Sun 07:51
+id: 92, Country: Usa, City: Las Vegas, Temp: 24°C, Date: Sun 03:51
+id: 93, Country: Fiji, City: Suva, Temp: 24°C, Date: Sun 22:51
+id: 94, Country: Egypt, City: Cairo, Temp: 30°C, Date: Sun 13:51
+id: 95, Country: Peru, City: Lima, Temp: 16°C, Date: Sun 05:51
+id: 96, Country: Australia, City: Sydney, Temp: 19°C, Date: Sun 20:51
+id: 97, Country: Canada, City: Calgary, Temp: 6°C, Date: Sun 04:51
+id: 98, Country: Portugal, City: Lisbon, Temp: 20°C, Date: Sun 11:51
+id: 99, Country: Taiwan, City: Taipei, Temp: 25°C, Date: Sun 18:51
+id: 100, Country: Australia, City: Canberra, Temp: 11°C, Date: Sun 20:51
+id: 101, Country: Uk, City: London, Temp: 18°C, Date: Sun 11:51
+id: 102, Country: Estonia, City: Tallinn, Temp: 12°C, Date: Sun 13:51
+id: 103, Country: South-Africa, City: Cape Town, Temp: 24°C, Date: Sun 12:51
+id: 104, Country: Usa, City: Los Angeles, Temp: 18°C, Date: Sun 03:51
+id: 105, Country: Uzbekistan, City: Tashkent, Temp: 29°C, Date: Sun 15:51
+id: 106, Country: Venezuela, City: Caracas, Temp: 28°C, Date: Sun 06:51
+id: 107, Country: Spain, City: Madrid, Temp: 20°C, Date: Sun 12:51
+id: 108, Country: Honduras, City: Tegucigalpa, Temp: 20°C, Date: Sun 04:51
+id: 109, Country: Morocco, City: Casablanca, Temp: 25°C, Date: Sun 11:51
+id: 110, Country: Nicaragua, City: Managua, Temp: 23°C, Date: Sun 04:51
+id: 111, Country: Iran, City: Tehran, Temp: 31°C, Date: Sun 14:21
+id: 112, Country: Usa, City: Chicago, Temp: 24°C, Date: Sun 05:51
+id: 113, Country: Philippines, City: Manila, Temp: 29°C, Date: Sun 18:51
+id: 114, Country: Japan, City: Tokyo, Temp: 25°C, Date: Sun 19:51
+id: 115, Country: Denmark, City: Copenhagen, Temp: 20°C, Date: Sun 12:51
+id: 116, Country: Australia, City: Melbourne, Temp: 16°C, Date: Sun 20:51
+id: 117, Country: Canada, City: Toronto, Temp: 16°C, Date: Sun 06:51
+id: 118, Country: Usa, City: Dallas, Temp: 26°C, Date: Sun 05:51
+id: 119, Country: Mexico, City: Mexico City, Temp: 16°C, Date: Sun 04:51
+id: 120, Country: Canada, City: Vancouver, Temp: 12°C, Date: Sun 03:51
+id: 121, Country: Tanzania, City: Dar Es Salaam, Temp: 21°C, Date: Sun 13:51
+id: 122, Country: Usa, City: Miami, Temp: 25°C, Date: Sun 06:51
+id: 123, Country: Austria, City: Vienna, Temp: 20°C, Date: Sun 12:51
+id: 124, Country: Australia, City: Darwin, Temp: 30°C, Date: Sun 20:21
+id: 125, Country: Usa, City: Minneapolis, Temp: 14°C, Date: Sun 05:51
+id: 126, Country: Poland, City: Warsaw, Temp: 22°C, Date: Sun 12:51
+id: 127, Country: Usa, City: Denver, Temp: 8°C, Date: Sun 04:51
+id: 128, Country: Belarus, City: Minsk, Temp: 20°C, Date: Sun 13:51
+id: 129, Country: Usa, City: Washington Dc, Temp: 21°C, Date: Sun 06:51
+id: 130, Country: Usa, City: Detroit, Temp: 18°C, Date: Sun 06:51
+id: 131, Country: Uruguay, City: Montevideo, Temp: 17°C, Date: Sun 07:51
+id: 132, Country: Canada, City: Winnipeg, Temp: 10°C, Date: Sun 05:51
+id: 133, Country: Bangladesh, City: Dhaka, Temp: 36°C, Date: Sun 16:51
+id: 134, Country: Canada, City: Montreal, Temp: 13°C, Date: Sun 06:51
+id: 135, Country: Myanmar, City: Yangon, Temp: 27°C, Date: Sun 17:21
+id: 136, Country: Qatar, City: Doha, Temp: 38°C, Date: Sun 13:51
+id: 137, Country: Russia, City: Moscow, Temp: 13°C, Date: Sun 13:51
+id: 138, Country: Croatia, City: Zagreb, Temp: 20°C, Date: Sun 12:51
+id: 139, Country: United-Arab-Emirates, City: Dubai, Temp: 40°C, Date: Sun 14:51
+id: 140, Country: India, City: Mumbai, Temp: 32°C, Date: Sun 16:21
+id: 141, Country: Switzerland, City: Zurich, Temp: 15°C, Date: Sun 12:51

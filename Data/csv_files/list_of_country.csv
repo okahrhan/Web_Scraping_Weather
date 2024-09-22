@@ -1,0 +1,142 @@
+id,Country,City,Temp,Date
+1,Ghana,Accra,28°C,Sun 10:51
+2,Ireland,Dublin,14°C,Sun 11:51
+3,Kenya,Nairobi,24°C,Sun 13:51
+4,Ethiopia,Addis Ababa,22°C,Sun 13:51
+5,Canada,Edmonton,5°C,Sun 04:51
+6,Bahamas,Nassau,24°C,Sun 06:51
+7,Australia,Adelaide,15°C,Sun 20:21
+8,Germany,Frankfurt,22°C,Sun 12:51
+9,India,New Delhi,35°C,Sun 16:21
+10,Algeria,Algiers,24°C,Sun 11:51
+11,Guatemala,Guatemala,17°C,Sun 04:51
+12,Usa,New Orleans,28°C,Sun 05:51
+13,Kazakstan,Almaty,27°C,Sun 15:51
+14,Canada,Halifax,7°C,Sun 07:51
+15,Usa,New York,17°C,Sun 06:51
+16,Jordan,Amman,26°C,Sun 13:51
+17,Vietnam,Hanoi,27°C,Sun 17:51
+18,Norway,Oslo,12°C,Sun 12:51
+19,Netherlands,Amsterdam,21°C,Sun 12:51
+20,Zimbabwe,Harare,21°C,Sun 12:51
+21,Canada,Ottawa,12°C,Sun 06:51
+22,Russia,Anadyr,5°C,Sun 22:51
+23,Cuba,Havana,23°C,Sun 06:51
+24,France,Paris,18°C,Sun 12:51
+25,Usa,Anchorage,4°C,Sun 02:51
+26,Finland,Helsinki,11°C,Sun 13:51
+27,Australia,Perth,20°C,Sun 18:51
+28,Turkey,Ankara,19°C,Sun 13:51
+29,Hong-Kong,Hong Kong,26°C,Sun 18:51
+30,Usa,Philadelphia,18°C,Sun 06:51
+31,Madagascar,Antananarivo,28°C,Sun 13:51
+32,Usa,Honolulu,26°C,Sun 00:51
+33,Usa,Phoenix,25°C,Sun 03:51
+34,Paraguay,Asuncion,26°C,Sun 06:51
+35,Usa,Houston,26°C,Sun 05:51
+36,Czech-Republic,Prague,17°C,Sun 12:51
+37,Greece,Athens,26°C,Sun 13:51
+38,Usa,Indianapolis,19°C,Sun 06:51
+39,Iceland,Reykjavik,9°C,Sun 10:51
+40,Usa,Atlanta,21°C,Sun 06:51
+41,Pakistan,Islamabad,32°C,Sun 15:51
+42,Brazil,Rio De Janeiro,23°C,Sun 07:51
+43,New-Zealand,Auckland,15°C,Sun 22:51
+44,Turkey,Istanbul,21°C,Sun 13:51
+45,Saudi-Arabia,Riyadh,39°C,Sun 13:51
+46,Iraq,Baghdad,40°C,Sun 13:51
+47,Indonesia,Jakarta,33°C,Sun 17:51
+48,Italy,Rome,22°C,Sun 12:51
+49,Thailand,Bangkok,30°C,Sun 17:51
+50,Israel,Jerusalem,22°C,Sun 13:51
+51,Usa,Salt Lake City,16°C,Sun 04:51
+52,Spain,Barcelona,20°C,Sun 12:51
+53,South-Africa,Johannesburg,6°C,Sun 12:51
+54,Usa,San Francisco,13°C,Sun 03:51
+55,China,Beijing,22°C,Sun 18:51
+56,Pakistan,Karachi,34°C,Sun 15:51
+57,Puerto-Rico,San Juan,27°C,Sun 06:51
+58,Lebanon,Beirut,29°C,Sun 13:51
+59,Nepal,Kathmandu,31°C,Sun 16:36
+60,El-Salvador,San Salvador,23°C,Sun 04:51
+61,Serbia,Belgrade,21°C,Sun 12:51
+62,Jamaica,Kingston,28°C,Sun 05:51
+63,Chile,Santiago,8°C,Sun 07:51
+64,India,Bengaluru,29°C,Sun 16:21
+65,Congo-Demrep,Kinshasa,27°C,Sun 11:51
+66,Dominican-Republic,Santo Domingo,27°C,Sun 06:51
+67,Germany,Berlin,22°C,Sun 12:51
+68,Kiribati,Kiritimati,26°C,Mon 00:51
+69,Brazil,Sao Paulo,19°C,Sun 07:51
+70,Colombia,Bogota,11°C,Sun 05:51
+71,India,Kolkata,35°C,Sun 16:21
+72,Usa,Seattle,14°C,Sun 03:51
+73,Usa,Boston,14°C,Sun 06:51
+74,Malaysia,Kuala Lumpur,33°C,Sun 18:51
+75,South-Korea,Seoul,21°C,Sun 19:51
+76,Brazil,Brasilia,18°C,Sun 07:51
+77,Kuwait,Kuwait City,42°C,Sun 13:51
+78,China,Shanghai,23°C,Sun 18:51
+79,Australia,Brisbane,20°C,Sun 20:51
+80,Ukraine,Kyiv,23°C,Sun 13:51
+81,Singapore,Singapore,31°C,Sun 18:51
+82,Belgium,Brussels,20°C,Sun 12:51
+83,Bolivia,La Paz,2°C,Sun 06:51
+84,Bulgaria,Sofia,16°C,Sun 13:51
+85,Romania,Bucharest,24°C,Sun 13:51
+86,Nigeria,Lagos,29°C,Sun 11:51
+87,Canada,St Johns,9°C,Sun 08:21
+88,Hungary,Budapest,22°C,Sun 12:51
+89,Pakistan,Lahore,37°C,Sun 15:51
+90,Sweden,Stockholm,14°C,Sun 12:51
+91,Argentina,Buenos Aires,18°C,Sun 07:51
+92,Usa,Las Vegas,24°C,Sun 03:51
+93,Fiji,Suva,24°C,Sun 22:51
+94,Egypt,Cairo,30°C,Sun 13:51
+95,Peru,Lima,16°C,Sun 05:51
+96,Australia,Sydney,19°C,Sun 20:51
+97,Canada,Calgary,6°C,Sun 04:51
+98,Portugal,Lisbon,20°C,Sun 11:51
+99,Taiwan,Taipei,25°C,Sun 18:51
+100,Australia,Canberra,11°C,Sun 20:51
+101,Uk,London,18°C,Sun 11:51
+102,Estonia,Tallinn,12°C,Sun 13:51
+103,South-Africa,Cape Town,24°C,Sun 12:51
+104,Usa,Los Angeles,18°C,Sun 03:51
+105,Uzbekistan,Tashkent,29°C,Sun 15:51
+106,Venezuela,Caracas,28°C,Sun 06:51
+107,Spain,Madrid,20°C,Sun 12:51
+108,Honduras,Tegucigalpa,20°C,Sun 04:51
+109,Morocco,Casablanca,25°C,Sun 11:51
+110,Nicaragua,Managua,23°C,Sun 04:51
+111,Iran,Tehran,31°C,Sun 14:21
+112,Usa,Chicago,24°C,Sun 05:51
+113,Philippines,Manila,29°C,Sun 18:51
+114,Japan,Tokyo,25°C,Sun 19:51
+115,Denmark,Copenhagen,20°C,Sun 12:51
+116,Australia,Melbourne,16°C,Sun 20:51
+117,Canada,Toronto,16°C,Sun 06:51
+118,Usa,Dallas,26°C,Sun 05:51
+119,Mexico,Mexico City,16°C,Sun 04:51
+120,Canada,Vancouver,12°C,Sun 03:51
+121,Tanzania,Dar Es Salaam,21°C,Sun 13:51
+122,Usa,Miami,25°C,Sun 06:51
+123,Austria,Vienna,20°C,Sun 12:51
+124,Australia,Darwin,30°C,Sun 20:21
+125,Usa,Minneapolis,14°C,Sun 05:51
+126,Poland,Warsaw,22°C,Sun 12:51
+127,Usa,Denver,8°C,Sun 04:51
+128,Belarus,Minsk,20°C,Sun 13:51
+129,Usa,Washington Dc,21°C,Sun 06:51
+130,Usa,Detroit,18°C,Sun 06:51
+131,Uruguay,Montevideo,17°C,Sun 07:51
+132,Canada,Winnipeg,10°C,Sun 05:51
+133,Bangladesh,Dhaka,36°C,Sun 16:51
+134,Canada,Montreal,13°C,Sun 06:51
+135,Myanmar,Yangon,27°C,Sun 17:21
+136,Qatar,Doha,38°C,Sun 13:51
+137,Russia,Moscow,13°C,Sun 13:51
+138,Croatia,Zagreb,20°C,Sun 12:51
+139,United-Arab-Emirates,Dubai,40°C,Sun 14:51
+140,India,Mumbai,32°C,Sun 16:21
+141,Switzerland,Zurich,15°C,Sun 12:51

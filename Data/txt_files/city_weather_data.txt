@@ -1,0 +1,1410 @@
+id: 1
+URL: https://www.timeanddate.com/weather/ghana/accra
+Feels Like: 30 °C
+Wind Speed: 16 km/h
+Humidity: 81%
+Dew Point: 23 °C
+Visibility: 9 km
+Probability of Precipitation: 32%
+
+----------------------------------------
+id: 2
+URL: https://www.timeanddate.com/weather/ireland/dublin
+Feels Like: 14 °C
+Wind Speed: 15 km/h
+Humidity: 93%
+Dew Point: 13 °C
+Visibility: 5 km
+Probability of Precipitation: 27%
+
+----------------------------------------
+id: 3
+URL: https://www.timeanddate.com/weather/kenya/nairobi
+Feels Like: 26 °C
+Wind Speed: 6 km/h
+Humidity: 40%
+Dew Point: 11 °C
+Visibility: 11 km
+Probability of Precipitation: 3%
+
+----------------------------------------
+id: 4
+URL: https://www.timeanddate.com/weather/ethiopia/addis-ababa
+Feels Like: 20 °C
+Wind Speed: 29 km/h
+Humidity: 55%
+Dew Point: 10 °C
+Visibility: 12 km
+Probability of Precipitation: 31%
+
+----------------------------------------
+id: 5
+URL: https://www.timeanddate.com/weather/canada/edmonton
+Feels Like: 7 °C
+Wind Speed: 12 km/h
+Humidity: 77%
+Dew Point: 5 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 6
+URL: https://www.timeanddate.com/weather/bahamas/nassau
+Feels Like: 31 °C
+Wind Speed: 7 km/h
+Humidity: 78%
+Dew Point: 24 °C
+Visibility: 13 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 7
+URL: https://www.timeanddate.com/weather/australia/adelaide
+Feels Like: 12 °C
+Wind Speed: 5 km/h
+Humidity: 93%
+Dew Point: 11 °C
+Visibility: 10 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 8
+URL: https://www.timeanddate.com/weather/germany/frankfurt
+Feels Like: 25 °C
+Wind Speed: 5 km/h
+Humidity: 57%
+Dew Point: 15 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 9
+URL: https://www.timeanddate.com/weather/india/new-delhi
+Feels Like: 42 °C
+Wind Speed: 9 km/h
+Humidity: 56%
+Dew Point: 24 °C
+Visibility: 13 km
+Probability of Precipitation: 5%
+
+----------------------------------------
+id: 10
+URL: https://www.timeanddate.com/weather/algeria/algiers
+Feels Like: 24 °C
+Wind Speed: 7 km/h
+Humidity: 76%
+Dew Point: 19 °C
+Visibility: 11 km
+Probability of Precipitation: 2%
+
+----------------------------------------
+id: 11
+URL: https://www.timeanddate.com/weather/guatemala/guatemala
+Feels Like: 17 °C
+Wind Speed: 1 km/h
+Humidity: 87%
+Dew Point: 15 °C
+Visibility: 5 km
+Probability of Precipitation: 50%
+
+----------------------------------------
+id: 12
+URL: https://www.timeanddate.com/weather/usa/new-orleans
+Feels Like: 25 °C
+Wind Speed: 6 km/h
+Humidity: 90%
+Dew Point: 23 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 13
+URL: https://www.timeanddate.com/weather/kazakstan/almaty
+Feels Like: 25 °C
+Wind Speed: 2 km/h
+Humidity: 41%
+Dew Point: 10 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 14
+URL: https://www.timeanddate.com/weather/canada/halifax
+Feels Like: 11 °C
+Wind Speed: 22 km/h
+Humidity: 81%
+Dew Point: 10 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 15
+URL: https://www.timeanddate.com/weather/usa/new-york
+Feels Like: 18 °C
+Wind Speed: 15 km/h
+Humidity: 67%
+Dew Point: 12 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 16
+URL: https://www.timeanddate.com/weather/jordan/amman
+Feels Like: 26 °C
+Wind Speed: 29 km/h
+Humidity: 48%
+Dew Point: 14 °C
+Visibility: 13 km
+Probability of Precipitation: 23%
+
+----------------------------------------
+id: 17
+URL: https://www.timeanddate.com/weather/vietnam/hanoi
+Feels Like: 28 °C
+Wind Speed: 14 km/h
+Humidity: 82%
+Dew Point: 23 °C
+Visibility: 6 km
+Probability of Precipitation: 75%
+
+----------------------------------------
+id: 18
+URL: https://www.timeanddate.com/weather/norway/oslo
+Feels Like: 16 °C
+Wind Speed: 12 km/h
+Humidity: 70%
+Dew Point: 10 °C
+Visibility: 13 km
+Probability of Precipitation: 10%
+
+----------------------------------------
+id: 19
+URL: https://www.timeanddate.com/weather/netherlands/amsterdam
+Feels Like: 25 °C
+Wind Speed: 9 km/h
+Humidity: 58%
+Dew Point: 14 °C
+Visibility: 13 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 20
+URL: https://www.timeanddate.com/weather/zimbabwe/harare
+Feels Like: 26 °C
+Wind Speed: 16 km/h
+Humidity: 37%
+Dew Point: 10 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 21
+URL: https://www.timeanddate.com/weather/canada/ottawa
+Feels Like: 16 °C
+Wind Speed: 11 km/h
+Humidity: 80%
+Dew Point: 12 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 22
+URL: https://www.timeanddate.com/weather/russia/anadyr
+Feels Like: 6 °C
+Wind Speed: 2 km/h
+Humidity: 84%
+Dew Point: 4 °C
+Visibility: 10 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 23
+URL: https://www.timeanddate.com/weather/cuba/havana
+Feels Like: 29 °C
+Wind Speed: 8 km/h
+Humidity: 84%
+Dew Point: 23 °C
+Visibility: 11 km
+Probability of Precipitation: 28%
+
+----------------------------------------
+id: 24
+URL: https://www.timeanddate.com/weather/france/paris
+Feels Like: 20 °C
+Wind Speed: 11 km/h
+Humidity: 76%
+Dew Point: 15 °C
+Visibility: 10 km
+Probability of Precipitation: 40%
+
+----------------------------------------
+id: 25
+URL: https://www.timeanddate.com/weather/usa/anchorage
+Feels Like: 4 °C
+Wind Speed: 6 km/h
+Humidity: 79%
+Dew Point: 2 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 26
+URL: https://www.timeanddate.com/weather/finland/helsinki
+Feels Like: 10 °C
+Wind Speed: 4 km/h
+Humidity: 52%
+Dew Point: 1 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 27
+URL: https://www.timeanddate.com/weather/australia/perth
+Feels Like: 16 °C
+Wind Speed: 18 km/h
+Humidity: 73%
+Dew Point: 11 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 28
+URL: https://www.timeanddate.com/weather/turkey/ankara
+Feels Like: 19 °C
+Wind Speed: 7 km/h
+Humidity: 49%
+Dew Point: 8 °C
+Visibility: 12 km
+Probability of Precipitation: 22%
+
+----------------------------------------
+id: 29
+URL: https://www.timeanddate.com/weather/hong-kong/hong-kong
+Feels Like: 25 °C
+Wind Speed: 30 km/h
+Humidity: 77%
+Dew Point: 20 °C
+Visibility: 11 km
+Probability of Precipitation: 22%
+
+----------------------------------------
+id: 30
+URL: https://www.timeanddate.com/weather/usa/philadelphia
+Feels Like: 19 °C
+Wind Speed: 10 km/h
+Humidity: 71%
+Dew Point: 14 °C
+Visibility: 13 km
+Probability of Precipitation: 5%
+
+----------------------------------------
+id: 31
+URL: https://www.timeanddate.com/weather/madagascar/antananarivo
+Feels Like: 28 °C
+Wind Speed: 4 km/h
+Humidity: 29%
+Dew Point: 9 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 32
+URL: https://www.timeanddate.com/weather/usa/honolulu
+Feels Like: 25 °C
+Wind Speed: 22 km/h
+Humidity: 75%
+Dew Point: 20 °C
+Visibility: 10 km
+Probability of Precipitation: 45%
+
+----------------------------------------
+id: 33
+URL: https://www.timeanddate.com/weather/usa/phoenix
+Feels Like: 25 °C
+Wind Speed: 1 km/h
+Humidity: 30%
+Dew Point: 6 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 34
+URL: https://www.timeanddate.com/weather/paraguay/asuncion
+Feels Like: 34 °C
+Wind Speed: 21 km/h
+Humidity: 52%
+Dew Point: 20 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 35
+URL: https://www.timeanddate.com/weather/usa/houston
+Feels Like: 28 °C
+Wind Speed: 8 km/h
+Humidity: 85%
+Dew Point: 23 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 36
+URL: https://www.timeanddate.com/weather/czech-republic/prague
+Feels Like: 25 °C
+Wind Speed: 7 km/h
+Humidity: 51%
+Dew Point: 11 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 37
+URL: https://www.timeanddate.com/weather/greece/athens
+Feels Like: 26 °C
+Wind Speed: 19 km/h
+Humidity: 30%
+Dew Point: 8 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 38
+URL: https://www.timeanddate.com/weather/usa/indianapolis
+Feels Like: 20 °C
+Wind Speed: 4 km/h
+Humidity: 78%
+Dew Point: 16 °C
+Visibility: 11 km
+Probability of Precipitation: 28%
+
+----------------------------------------
+id: 39
+URL: https://www.timeanddate.com/weather/iceland/reykjavik
+Feels Like: 6 °C
+Wind Speed: 5 km/h
+Humidity: 89%
+Dew Point: 5 °C
+Visibility: 10 km
+Probability of Precipitation: 5%
+
+----------------------------------------
+id: 40
+URL: https://www.timeanddate.com/weather/usa/atlanta
+Feels Like: 24 °C
+Wind Speed: 7 km/h
+Humidity: 75%
+Dew Point: 18 °C
+Visibility: 13 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 41
+URL: https://www.timeanddate.com/weather/pakistan/islamabad
+Feels Like: 36 °C
+Wind Speed: 6 km/h
+Humidity: 45%
+Dew Point: 20 °C
+Visibility: 13 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 42
+URL: https://www.timeanddate.com/weather/brazil/rio-de-janeiro
+Feels Like: 25 °C
+Wind Speed: 2 km/h
+Humidity: 78%
+Dew Point: 21 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 43
+URL: https://www.timeanddate.com/weather/new-zealand/auckland
+Feels Like: 13 °C
+Wind Speed: 9 km/h
+Humidity: 89%
+Dew Point: 12 °C
+Visibility: 5 km
+Probability of Precipitation: 24%
+
+----------------------------------------
+id: 44
+URL: https://www.timeanddate.com/weather/turkey/istanbul
+Feels Like: 26 °C
+Wind Speed: 23 km/h
+Humidity: 44%
+Dew Point: 12 °C
+Visibility: 13 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 45
+URL: https://www.timeanddate.com/weather/saudi-arabia/riyadh
+Feels Like: 38 °C
+Wind Speed: 7 km/h
+Humidity: 14%
+Dew Point: 7 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 46
+URL: https://www.timeanddate.com/weather/iraq/baghdad
+Feels Like: 38 °C
+Wind Speed: 13 km/h
+Humidity: 13%
+Dew Point: 7 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 47
+URL: https://www.timeanddate.com/weather/indonesia/jakarta
+Feels Like: 38 °C
+Wind Speed: 19 km/h
+Humidity: 59%
+Dew Point: 23 °C
+Visibility: 10 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 48
+URL: https://www.timeanddate.com/weather/italy/rome
+Feels Like: 26 °C
+Wind Speed: 11 km/h
+Humidity: 56%
+Dew Point: 15 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 49
+URL: https://www.timeanddate.com/weather/thailand/bangkok
+Feels Like: 35 °C
+Wind Speed: 14 km/h
+Humidity: 70%
+Dew Point: 24 °C
+Visibility: 9 km
+Probability of Precipitation: 57%
+
+----------------------------------------
+id: 50
+URL: https://www.timeanddate.com/weather/israel/jerusalem
+Feels Like: 26 °C
+Wind Speed: 43 km/h
+Humidity: 51%
+Dew Point: 14 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 51
+URL: https://www.timeanddate.com/weather/usa/salt-lake-city
+Feels Like: 15 °C
+Wind Speed: 5 km/h
+Humidity: 57%
+Dew Point: 6 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 52
+URL: https://www.timeanddate.com/weather/spain/barcelona
+Feels Like: 23 °C
+Wind Speed: 6 km/h
+Humidity: 77%
+Dew Point: 18 °C
+Visibility: 7 km
+Probability of Precipitation: 53%
+
+----------------------------------------
+id: 53
+URL: https://www.timeanddate.com/weather/south-africa/johannesburg
+Feels Like: 13 °C
+Wind Speed: 9 km/h
+Humidity: 55%
+Dew Point: 4 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 54
+URL: https://www.timeanddate.com/weather/usa/san-francisco
+Feels Like: 14 °C
+Wind Speed: 6 km/h
+Humidity: 89%
+Dew Point: 12 °C
+Visibility: 6 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 55
+URL: https://www.timeanddate.com/weather/china/beijing
+Feels Like: 15 °C
+Wind Speed: 6 km/h
+Humidity: 61%
+Dew Point: 7 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 56
+URL: https://www.timeanddate.com/weather/pakistan/karachi
+Feels Like: 35 °C
+Wind Speed: 26 km/h
+Humidity: 62%
+Dew Point: 23 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 57
+URL: https://www.timeanddate.com/weather/puerto-rico/san-juan
+Feels Like: 34 °C
+Wind Speed: 4 km/h
+Humidity: 75%
+Dew Point: 24 °C
+Visibility: 12 km
+Probability of Precipitation: 1%
+
+----------------------------------------
+id: 58
+URL: https://www.timeanddate.com/weather/lebanon/beirut
+Feels Like: 30 °C
+Wind Speed: 26 km/h
+Humidity: 57%
+Dew Point: 19 °C
+Visibility: 7 km
+Probability of Precipitation: 20%
+
+----------------------------------------
+id: 59
+URL: https://www.timeanddate.com/weather/nepal/kathmandu
+Feels Like: 32 °C
+Wind Speed: 4 km/h
+Humidity: 57%
+Dew Point: 20 °C
+Visibility: 11 km
+Probability of Precipitation: 5%
+
+----------------------------------------
+id: 60
+URL: https://www.timeanddate.com/weather/el-salvador/san-salvador
+Feels Like: 20 °C
+Wind Speed: 6 km/h
+Humidity: 93%
+Dew Point: 19 °C
+Visibility: 7 km
+Probability of Precipitation: 20%
+
+----------------------------------------
+id: 61
+URL: https://www.timeanddate.com/weather/serbia/belgrade
+Feels Like: 25 °C
+Wind Speed: 8 km/h
+Humidity: 29%
+Dew Point: 6 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 62
+URL: https://www.timeanddate.com/weather/jamaica/kingston
+Feels Like: 30 °C
+Wind Speed: 1 km/h
+Humidity: 76%
+Dew Point: 23 °C
+Visibility: 6 km
+Probability of Precipitation: 57%
+
+----------------------------------------
+id: 63
+URL: https://www.timeanddate.com/weather/chile/santiago
+Feels Like: 8 °C
+Wind Speed: 3 km/h
+Humidity: 78%
+Dew Point: 5 °C
+Visibility: 5 km
+Probability of Precipitation: 22%
+
+----------------------------------------
+id: 64
+URL: https://www.timeanddate.com/weather/india/bengaluru
+Feels Like: 28 °C
+Wind Speed: 15 km/h
+Humidity: 59%
+Dew Point: 18 °C
+Visibility: 11 km
+Probability of Precipitation: 22%
+
+----------------------------------------
+id: 65
+URL: https://www.timeanddate.com/weather/congo-demrep/kinshasa
+Feels Like: 28 °C
+Wind Speed: 9 km/h
+Humidity: 73%
+Dew Point: 21 °C
+Visibility: 11 km
+Probability of Precipitation: 1%
+
+----------------------------------------
+id: 66
+URL: https://www.timeanddate.com/weather/dominican-republic/santo-domingo
+Feels Like: 31 °C
+Wind Speed: 2 km/h
+Humidity: 81%
+Dew Point: 24 °C
+Visibility: 12 km
+Probability of Precipitation: 2%
+
+----------------------------------------
+id: 67
+URL: https://www.timeanddate.com/weather/germany/berlin
+Feels Like: 25 °C
+Wind Speed: 15 km/h
+Humidity: 38%
+Dew Point: 9 °C
+Visibility: 15 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 68
+URL: https://www.timeanddate.com/weather/kiribati/kiritimati
+Feels Like: 27 °C
+Wind Speed: 18 km/h
+Humidity: 82%
+Dew Point: 22 °C
+Visibility: 11 km
+Probability of Precipitation: 10%
+
+----------------------------------------
+id: 69
+URL: https://www.timeanddate.com/weather/brazil/sao-paulo
+Feels Like: 23 °C
+Wind Speed: 5 km/h
+Humidity: 77%
+Dew Point: 18 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 70
+URL: https://www.timeanddate.com/weather/colombia/bogota
+Feels Like: 8 °C
+Wind Speed: 8 km/h
+Humidity: 93%
+Dew Point: 8 °C
+Visibility: 9 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 71
+URL: https://www.timeanddate.com/weather/india/kolkata
+Feels Like: 46 °C
+Wind Speed: 8 km/h
+Humidity: 58%
+Dew Point: 26 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 72
+URL: https://www.timeanddate.com/weather/usa/seattle
+Feels Like: 12 °C
+Wind Speed: 2 km/h
+Humidity: 86%
+Dew Point: 9 °C
+Visibility: 9 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 73
+URL: https://www.timeanddate.com/weather/usa/boston
+Feels Like: 17 °C
+Wind Speed: 21 km/h
+Humidity: 79%
+Dew Point: 13 °C
+Visibility: 11 km
+Probability of Precipitation: 3%
+
+----------------------------------------
+id: 74
+URL: https://www.timeanddate.com/weather/malaysia/kuala-lumpur
+Feels Like: 34 °C
+Wind Speed: 4 km/h
+Humidity: 69%
+Dew Point: 23 °C
+Visibility: 10 km
+Probability of Precipitation: 30%
+
+----------------------------------------
+id: 75
+URL: https://www.timeanddate.com/weather/south-korea/seoul
+Feels Like: 19 °C
+Wind Speed: 13 km/h
+Humidity: 74%
+Dew Point: 14 °C
+Visibility: 13 km
+Probability of Precipitation: 16%
+
+----------------------------------------
+id: 76
+URL: https://www.timeanddate.com/weather/brazil/brasilia
+Feels Like: 26 °C
+Wind Speed: 18 km/h
+Humidity: 36%
+Dew Point: 9 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 77
+URL: https://www.timeanddate.com/weather/kuwait/kuwait-city
+Feels Like: 39 °C
+Wind Speed: 14 km/h
+Humidity: 27%
+Dew Point: 16 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 78
+URL: https://www.timeanddate.com/weather/china/shanghai
+Feels Like: 24 °C
+Wind Speed: 13 km/h
+Humidity: 66%
+Dew Point: 15 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 79
+URL: https://www.timeanddate.com/weather/australia/brisbane
+Feels Like: 18 °C
+Wind Speed: 3 km/h
+Humidity: 77%
+Dew Point: 14 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 80
+URL: https://www.timeanddate.com/weather/ukraine/kyiv
+Feels Like: 26 °C
+Wind Speed: 9 km/h
+Humidity: 38%
+Dew Point: 10 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 81
+URL: https://www.timeanddate.com/weather/singapore/singapore
+Feels Like: 32 °C
+Wind Speed: 4 km/h
+Humidity: 82%
+Dew Point: 24 °C
+Visibility: 10 km
+Probability of Precipitation: 60%
+
+----------------------------------------
+id: 82
+URL: https://www.timeanddate.com/weather/belgium/brussels
+Feels Like: 20 °C
+Wind Speed: 13 km/h
+Humidity: 70%
+Dew Point: 15 °C
+Visibility: 11 km
+Probability of Precipitation: 3%
+
+----------------------------------------
+id: 83
+URL: https://www.timeanddate.com/weather/bolivia/la-paz
+Feels Like: 10 °C
+Wind Speed: 4 km/h
+Humidity: 39%
+Dew Point: -3 °C
+Visibility: 13 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 84
+URL: https://www.timeanddate.com/weather/bulgaria/sofia
+Feels Like: 25 °C
+Wind Speed: 9 km/h
+Humidity: 42%
+Dew Point: 8 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 85
+URL: https://www.timeanddate.com/weather/romania/bucharest
+Feels Like: 26 °C
+Wind Speed: 2 km/h
+Humidity: 39%
+Dew Point: 10 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 86
+URL: https://www.timeanddate.com/weather/nigeria/lagos
+Feels Like: 28 °C
+Wind Speed: 6 km/h
+Humidity: 87%
+Dew Point: 24 °C
+Visibility: 6 km
+Probability of Precipitation: 35%
+
+----------------------------------------
+id: 87
+URL: https://www.timeanddate.com/weather/canada/st-johns
+Feels Like: 8 °C
+Wind Speed: 24 km/h
+Humidity: 89%
+Dew Point: 9 °C
+Visibility: 8 km
+Probability of Precipitation: 1%
+
+----------------------------------------
+id: 88
+URL: https://www.timeanddate.com/weather/hungary/budapest
+Feels Like: 25 °C
+Wind Speed: 6 km/h
+Humidity: 28%
+Dew Point: 5 °C
+Visibility: 15 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 89
+URL: https://www.timeanddate.com/weather/pakistan/lahore
+Feels Like: 43 °C
+Wind Speed: 7 km/h
+Humidity: 46%
+Dew Point: 23 °C
+Visibility: 13 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 90
+URL: https://www.timeanddate.com/weather/sweden/stockholm
+Feels Like: 15 °C
+Wind Speed: 12 km/h
+Humidity: 59%
+Dew Point: 7 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 91
+URL: https://www.timeanddate.com/weather/argentina/buenos-aires
+Feels Like: 19 °C
+Wind Speed: 15 km/h
+Humidity: 83%
+Dew Point: 16 °C
+Visibility: 8 km
+Probability of Precipitation: 27%
+
+----------------------------------------
+id: 92
+URL: https://www.timeanddate.com/weather/usa/las-vegas
+Feels Like: 25 °C
+Wind Speed: 2 km/h
+Humidity: 28%
+Dew Point: 4 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 93
+URL: https://www.timeanddate.com/weather/fiji/suva
+Feels Like: 25 °C
+Wind Speed: 11 km/h
+Humidity: 84%
+Dew Point: 21 °C
+Visibility: 7 km
+Probability of Precipitation: 30%
+
+----------------------------------------
+id: 94
+URL: https://www.timeanddate.com/weather/egypt/cairo
+Feels Like: 32 °C
+Wind Speed: 20 km/h
+Humidity: 36%
+Dew Point: 15 °C
+Visibility: 15 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 95
+URL: https://www.timeanddate.com/weather/peru/lima
+Feels Like: 15 °C
+Wind Speed: 7 km/h
+Humidity: 91%
+Dew Point: 13 °C
+Visibility: 9 km
+Probability of Precipitation: 1%
+
+----------------------------------------
+id: 96
+URL: https://www.timeanddate.com/weather/australia/sydney
+Feels Like: 18 °C
+Wind Speed: 5 km/h
+Humidity: 49%
+Dew Point: 7 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 97
+URL: https://www.timeanddate.com/weather/canada/calgary
+Feels Like: 5 °C
+Wind Speed: 10 km/h
+Humidity: 77%
+Dew Point: 3 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 98
+URL: https://www.timeanddate.com/weather/portugal/lisbon
+Feels Like: 17 °C
+Wind Speed: 3 km/h
+Humidity: 83%
+Dew Point: 14 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 99
+URL: https://www.timeanddate.com/weather/taiwan/taipei
+Feels Like: 27 °C
+Wind Speed: 9 km/h
+Humidity: 89%
+Dew Point: 24 °C
+Visibility: 2 km
+Probability of Precipitation: 65%
+
+----------------------------------------
+id: 100
+URL: https://www.timeanddate.com/weather/australia/canberra
+Feels Like: 8 °C
+Wind Speed: 4 km/h
+Humidity: 70%
+Dew Point: 3 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 101
+URL: https://www.timeanddate.com/weather/uk/london
+Feels Like: 16 °C
+Wind Speed: 13 km/h
+Humidity: 95%
+Dew Point: 16 °C
+Visibility: 6 km
+Probability of Precipitation: 69%
+
+----------------------------------------
+id: 102
+URL: https://www.timeanddate.com/weather/estonia/tallinn
+Feels Like: 11 °C
+Wind Speed: 7 km/h
+Humidity: 52%
+Dew Point: 2 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 103
+URL: https://www.timeanddate.com/weather/south-africa/cape-town
+Feels Like: 25 °C
+Wind Speed: 9 km/h
+Humidity: 48%
+Dew Point: 10 °C
+Visibility: 13 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 104
+URL: https://www.timeanddate.com/weather/usa/los-angeles
+Feels Like: 17 °C
+Wind Speed: 5 km/h
+Humidity: 85%
+Dew Point: 14 °C
+Visibility: 10 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 105
+URL: https://www.timeanddate.com/weather/uzbekistan/tashkent
+Feels Like: 27 °C
+Wind Speed: 13 km/h
+Humidity: 24%
+Dew Point: 6 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 106
+URL: https://www.timeanddate.com/weather/venezuela/caracas
+Feels Like: 28 °C
+Wind Speed: 5 km/h
+Humidity: 71%
+Dew Point: 21 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 107
+URL: https://www.timeanddate.com/weather/spain/madrid
+Feels Like: 21 °C
+Wind Speed: 21 km/h
+Humidity: 56%
+Dew Point: 12 °C
+Visibility: 13 km
+Probability of Precipitation: 2%
+
+----------------------------------------
+id: 108
+URL: https://www.timeanddate.com/weather/honduras/tegucigalpa
+Feels Like: 20 °C
+Wind Speed: 2 km/h
+Humidity: 89%
+Dew Point: 18 °C
+Visibility: 7 km
+Probability of Precipitation: 3%
+
+----------------------------------------
+id: 109
+URL: https://www.timeanddate.com/weather/morocco/casablanca
+Feels Like: 23 °C
+Wind Speed: 5 km/h
+Humidity: 78%
+Dew Point: 18 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 110
+URL: https://www.timeanddate.com/weather/nicaragua/managua
+Feels Like: 24 °C
+Wind Speed: 10 km/h
+Humidity: 91%
+Dew Point: 23 °C
+Visibility: 9 km
+Probability of Precipitation: 64%
+
+----------------------------------------
+id: 111
+URL: https://www.timeanddate.com/weather/iran/tehran
+Feels Like: 30 °C
+Wind Speed: 11 km/h
+Humidity: 14%
+Dew Point: 1 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 112
+URL: https://www.timeanddate.com/weather/usa/chicago
+Feels Like: 25 °C
+Wind Speed: 9 km/h
+Humidity: 61%
+Dew Point: 15 °C
+Visibility: 11 km
+Probability of Precipitation: 4%
+
+----------------------------------------
+id: 113
+URL: https://www.timeanddate.com/weather/philippines/manila
+Feels Like: 31 °C
+Wind Speed: 7 km/h
+Humidity: 85%
+Dew Point: 25 °C
+Visibility: 9 km
+Probability of Precipitation: 20%
+
+----------------------------------------
+id: 114
+URL: https://www.timeanddate.com/weather/japan/tokyo
+Feels Like: 28 °C
+Wind Speed: 20 km/h
+Humidity: 81%
+Dew Point: 23 °C
+Visibility: 10 km
+Probability of Precipitation: 26%
+
+----------------------------------------
+id: 115
+URL: https://www.timeanddate.com/weather/denmark/copenhagen
+Feels Like: 20 °C
+Wind Speed: 15 km/h
+Humidity: 55%
+Dew Point: 11 °C
+Visibility: 13 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 116
+URL: https://www.timeanddate.com/weather/australia/melbourne
+Feels Like: 13 °C
+Wind Speed: 11 km/h
+Humidity: 68%
+Dew Point: 8 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 117
+URL: https://www.timeanddate.com/weather/canada/toronto
+Feels Like: 20 °C
+Wind Speed: 7 km/h
+Humidity: 88%
+Dew Point: 18 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 118
+URL: https://www.timeanddate.com/weather/usa/dallas
+Feels Like: 28 °C
+Wind Speed: 18 km/h
+Humidity: 68%
+Dew Point: 20 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 119
+URL: https://www.timeanddate.com/weather/mexico/mexico-city
+Feels Like: 17 °C
+Wind Speed: 3 km/h
+Humidity: 79%
+Dew Point: 13 °C
+Visibility: 7 km
+Probability of Precipitation: 16%
+
+----------------------------------------
+id: 120
+URL: https://www.timeanddate.com/weather/canada/vancouver
+Feels Like: 13 °C
+Wind Speed: 5 km/h
+Humidity: 85%
+Dew Point: 10 °C
+Visibility: 9 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 121
+URL: https://www.timeanddate.com/weather/tanzania/dar-es-salaam
+Feels Like: 32 °C
+Wind Speed: 26 km/h
+Humidity: 49%
+Dew Point: 19 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 122
+URL: https://www.timeanddate.com/weather/usa/miami
+Feels Like: 30 °C
+Wind Speed: 6 km/h
+Humidity: 79%
+Dew Point: 23 °C
+Visibility: 13 km
+Probability of Precipitation: 5%
+
+----------------------------------------
+id: 123
+URL: https://www.timeanddate.com/weather/austria/vienna
+Feels Like: 25 °C
+Wind Speed: 20 km/h
+Humidity: 47%
+Dew Point: 11 °C
+Visibility: 15 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 124
+URL: https://www.timeanddate.com/weather/australia/darwin
+Feels Like: 32 °C
+Wind Speed: 12 km/h
+Humidity: 70%
+Dew Point: 23 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 125
+URL: https://www.timeanddate.com/weather/usa/minneapolis
+Feels Like: 13 °C
+Wind Speed: 17 km/h
+Humidity: 67%
+Dew Point: 8 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 126
+URL: https://www.timeanddate.com/weather/poland/warsaw
+Feels Like: 25 °C
+Wind Speed: 7 km/h
+Humidity: 44%
+Dew Point: 11 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 127
+URL: https://www.timeanddate.com/weather/usa/denver
+Feels Like: 9 °C
+Wind Speed: 5 km/h
+Humidity: 80%
+Dew Point: 6 °C
+Visibility: 8 km
+Probability of Precipitation: 70%
+
+----------------------------------------
+id: 128
+URL: https://www.timeanddate.com/weather/belarus/minsk
+Feels Like: 20 °C
+Wind Speed: 6 km/h
+Humidity: 52%
+Dew Point: 10 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 129
+URL: https://www.timeanddate.com/weather/usa/washington-dc
+Feels Like: 20 °C
+Wind Speed: 11 km/h
+Humidity: 91%
+Dew Point: 18 °C
+Visibility: 9 km
+Probability of Precipitation: 14%
+
+----------------------------------------
+id: 130
+URL: https://www.timeanddate.com/weather/usa/detroit
+Feels Like: 19 °C
+Wind Speed: 8 km/h
+Humidity: 82%
+Dew Point: 16 °C
+Visibility: 10 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 131
+URL: https://www.timeanddate.com/weather/uruguay/montevideo
+Feels Like: 19 °C
+Wind Speed: 23 km/h
+Humidity: 81%
+Dew Point: 16 °C
+Visibility: 8 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 132
+URL: https://www.timeanddate.com/weather/canada/winnipeg
+Feels Like: 8 °C
+Wind Speed: 8 km/h
+Humidity: 87%
+Dew Point: 7 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 133
+URL: https://www.timeanddate.com/weather/bangladesh/dhaka
+Feels Like: 48 °C
+Wind Speed: 10 km/h
+Humidity: 56%
+Dew Point: 26 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 134
+URL: https://www.timeanddate.com/weather/canada/montreal
+Feels Like: 16 °C
+Wind Speed: 8 km/h
+Humidity: 77%
+Dew Point: 12 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 135
+URL: https://www.timeanddate.com/weather/myanmar/yangon
+Feels Like: 34 °C
+Wind Speed: 17 km/h
+Humidity: 86%
+Dew Point: 26 °C
+Visibility: 6 km
+Probability of Precipitation: 32%
+
+----------------------------------------
+id: 136
+URL: https://www.timeanddate.com/weather/qatar/doha
+Feels Like: 40 °C
+Wind Speed: 14 km/h
+Humidity: 35%
+Dew Point: 19 °C
+Visibility: 11 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 137
+URL: https://www.timeanddate.com/weather/russia/moscow
+Feels Like: 14 °C
+Wind Speed: 12 km/h
+Humidity: 35%
+Dew Point: -1 °C
+Visibility: 15 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 138
+URL: https://www.timeanddate.com/weather/croatia/zagreb
+Feels Like: 25 °C
+Wind Speed: 6 km/h
+Humidity: 46%
+Dew Point: 10 °C
+Visibility: 14 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 139
+URL: https://www.timeanddate.com/weather/united-arab-emirates/dubai
+Feels Like: 43 °C
+Wind Speed: 17 km/h
+Humidity: 46%
+Dew Point: 23 °C
+Visibility: 9 km
+Probability of Precipitation: 0%
+
+----------------------------------------
+id: 140
+URL: https://www.timeanddate.com/weather/india/mumbai
+Feels Like: 36 °C
+Wind Speed: 21 km/h
+Humidity: 78%
+Dew Point: 25 °C
+Visibility: 10 km
+Probability of Precipitation: 30%
+
+----------------------------------------
+id: 141
+URL: https://www.timeanddate.com/weather/switzerland/zurich
+Feels Like: 20 °C
+Wind Speed: 3 km/h
+Humidity: 61%
+Dew Point: 12 °C
+Visibility: 12 km
+Probability of Precipitation: 0%
+
+----------------------------------------
